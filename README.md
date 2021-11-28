@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=calmjiad&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20JS%20Development%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
