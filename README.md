@@ -5,14 +5,16 @@
 <h2 align="center">About Me</h2
 
 <div align="center">
-<p align="center">- 🔭 I’m currently working on improving my skills.</p>
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.
-- 💬 Ask me about JavaScript or any tech realted stuff.
-- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/calmjiad)
-  - [Twitter](https://www.twitter.com/calmjiad)
-  - [Facebook](https://www.facebook.com/calmjiad)
+<p align="center">🔭 I’m currently working on improving my skills.</p>
+<p align="center">🌱 I’m currently learning Next.js</p>
+<p align="center">👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.</p>
+<p align="center">💬 Ask me about JavaScript or any tech realted stuff.</p>
+<p align="center">📫 Reach me at: </p>
+ <p align="center">
+ [LinkedIn](https://www.linkedin.com/in/calmjiad)
+ [Twitter](https://www.twitter.com/calmjiad)
+ [Facebook](https://www.facebook.com/calmjiad)
+ </p>
 </div>
 
 
