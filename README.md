@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=calmjiad&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-25-blue" />
@@ -10,9 +9,9 @@
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<hr>
+<h2 align="left">About Me</h2>
 </div>
-
-<h2 align="left">About Me</h2
 
 
 <p align="left">🔭 I’m currently working on improving my skills.</p>
