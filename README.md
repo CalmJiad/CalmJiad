@@ -15,6 +15,6 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=calmjiad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calmjiad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="jiad"></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=calmjiad&show_icons=true&locale=en&theme=chartreuse-dark" alt="jiad" width="410"></p>
 
