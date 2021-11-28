@@ -25,11 +25,10 @@
  - [Facebook](https://www.facebook.com/calmjiad)
 
 
-
-
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calmjiad&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="jiad" width="410"></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=calmjiad&show_icons=true&locale=en&theme=chartreuse-dark" alt="jiad" width="410"></p>
-
+</div>
