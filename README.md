@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.
 - 💬 Ask me about JavaScript or any tech realted stuff.
 - 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/calmjiad)
+  - [Twitter](https://www.twitter.com/calmjiad)
   - [Facebook](https://www.facebook.com/calmjiad)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
