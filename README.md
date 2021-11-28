@@ -5,7 +5,7 @@
 <h2 align="center">About Me</h2
 
 <div align="center">
-- 🔭 I’m currently working on improving my skills.
+<p>- 🔭 I’m currently working on improving my skills.</p>
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.
 - 💬 Ask me about JavaScript or any tech realted stuff.
