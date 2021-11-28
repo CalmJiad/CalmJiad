@@ -2,9 +2,9 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<h2 align="center">About Me</h2
+<h2 align="left">About Me</h2
 
-<div align="center">
+
 <p align="center">🔭 I’m currently working on improving my skills.</p>
 <p align="center">🌱 I’m currently learning Next.js</p>
 <p align="center">👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.</p>
@@ -15,7 +15,7 @@
  [Twitter](https://www.twitter.com/calmjiad)
  [Facebook](https://www.facebook.com/calmjiad)
  </p>
-</div>
+
 
 
 <p align="center">
