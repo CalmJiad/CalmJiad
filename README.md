@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-26-blue" />
    <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
