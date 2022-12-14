@@ -1,26 +1,16 @@
-<p align="center">
-   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
-</p>
-<hr>
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
-<h2 align="center">
- 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <Fellow Programmaers /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-</h2>
-<hr>
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
-<h2 align="left">About Me</h2>
+Hey there 👋
 
+I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-<p align="left">🔭 I’m currently working on improving my skills.</p>
-<p align="left">🌱 I’m currently learning Next.js</p>
-<p align="left">👯 I’m looking to collaborate on open source projects where I can learn professional techniques and strategies.</p>
-<p align="left">💬 Ask me about JavaScript or any tech realted stuff.</p>
-<p align="left">📫 Reach me at: </p>
+Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
- - [LinkedIn](https://www.linkedin.com/in/calmjiad)
- - [Twitter](https://www.twitter.com/calmjiad)
- - [Facebook](https://www.facebook.com/calmjiad)
+## 📝 Latest Blog Posts
 
-
+<br>
