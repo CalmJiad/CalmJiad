@@ -17,12 +17,9 @@ Interested to know more about me? [Check out my Linkedin profile.](https://www.l
 
 <br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmjiad&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<p align="center">
+<a href="https://github.com/calmjiad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calmjiad&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calmjiad&layout=compact&langs_count=8&theme=gotham"/>
 </a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin-left:24px" src="https://github-readme-stats.vercel.app/api?username=calmjiad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Jiad's GitHub Stats" />
-</a>
-
-<br>
+</p>
