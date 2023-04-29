@@ -8,7 +8,7 @@
  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <Fellow Programmaers /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </h2>
 
-Competent Software Development Engineer with a passion for creating impactful solutions with over two years of experience working across diverse technologies, familiarity with SDLC models. Mostly love to develop modern, cutting-edge web applications. Committed to creating reliable, efficient, and scalable code that meets the needs of high-volume businesses.
+Competent Software Development Engineer with a passion for creating impactful solutions with over two years of experience working across diverse technologies & industries, familiarity with software development principles, lifecycles and architecture models. Mostly love to develop modern, cutting-edge web applications using Javascript and its core libraries/frameworks. Committed to creating reliable, efficient, and scalable code that meets the needs of high-volume businesses.
 
 Interested to know more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/CalmJiad)
 
