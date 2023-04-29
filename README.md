@@ -8,7 +8,7 @@
  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <Fellow Programmaers /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </h2>
 
-I’m Ekramul Haque Jiad, a front-end web developer, creative coder and self-proclaimed designer who specializes in both front-end and back-end development. I mostly love to develop cross-platform web applications, debug ticklish issues and conflicting bugs, and do most things using Javascript. I believe that I am diligent and careful at contributing to a highly collaborative work environment and finding solutions. 
+Competent Software Development Engineer with a passion for creating impactful solutions with over two years of experience working across diverse technologies, familiarity with SDLC models. Mostly love to develop modern, cutting-edge web applications. Committed to creating reliable, efficient, and scalable code that meets the needs of high-volume businesses.
 
 Interested to know more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/CalmJiad)
 
