@@ -5,7 +5,7 @@
 
 
 <h2 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=3900&pause=000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2200&height=280&lines=Hello+Programmer !;;Feel+free+to+explore+my+repositories+and+don't+hesitate+to+reach+out!" width="90%" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=3900&pause=000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=2200&height=280&lines=Hello+Programmer !;;Feel+free+to+explore+my+repositories+and+don't+hesitate+to+reach+out!" width="90%" />
 <!--  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <Fellow Programmers /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> -->
 </h2>
 
