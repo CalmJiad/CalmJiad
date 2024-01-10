@@ -21,7 +21,7 @@ Interested to know more about me? [Check out my Linkedin profile.](https://www.l
 
 <p align="center" width="100%">
 <a href="https://github.com/calmjiad">
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calmjiad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
-  <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calmjiad&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calmjiad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calmjiad&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
 </a>
 </p>
