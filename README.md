@@ -10,17 +10,25 @@
 
 This is Jiad, a competent Software Development Engineer with a passion for creating impactful solutions with over two years of experience working across diverse technologies & industries, familiarity with software development principles, lifecycles and architecture models. Mostly love to develop modern, cutting-edge web applications using JavaScript and its core libraries/frameworks. Committed to creating reliable, efficient, and scalable code that meets the needs of high-volume businesses.
 
-Interested to know more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/CalmJiad)
+Would you like to learn more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/CalmJiad)
 
 <br>
 
-## &#x1f4c8; GitHub Stats
+###
 
-<br>
+<h3 align="center">🔥   My Stats :</h3>
 
-<p align="center" width="100%">
-<a href="https://github.com/calmjiad">
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=calmjiad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calmjiad&layout=compact&langs_count=20&theme=algolia&include_all_commits=true&count_private=true&show=reviews"/>
-</a>
-</p>
+###
+
+
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calmjiad&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calmjiad&theme=dark" height="163em" /> 
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calmjiad&theme=dark" height="160em" /> 
+  <br>
+<!--   <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" /> -->
+</div>
+
+###
